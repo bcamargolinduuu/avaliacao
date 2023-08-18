@@ -1,6 +1,6 @@
 .Imagem{
-    width: 180px!important;
-    height: 140px!important;
+    width: 80px!important;
+    height: 40px!important;
 }
 .div-todasimagens{
     display: grid;
@@ -10,7 +10,7 @@
     position: inherit;
 }
 .titulo{
-    font-size: 30px;
+    font-size: 10px;
     color: rgb(146, 83, 204);
     margin-bottom: 7px;
     text-align: center;
